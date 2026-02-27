@@ -12,7 +12,7 @@ Một công cụ tải video với giao diện trực quan, hoạt động độ
 
 ## 🚀 Hướng Dẫn Sử Dụng
 
-1. Tải ứng dụng `VideoDownloader.exe`.
+1. Tải ứng dụng [tại đây](https://github.com/DevNew440/VideoDownloader/blob/main/VideoDownloader.exe) (Bấm nút Download raw để tải về).
 2. Mở tệp `VideoDownloader.exe`.
 3. Nhập từ một tới nhiều link YouTube/TikTok vào ô danh sách link.
 4. Lựa chọn các thông số về Số Luồng, Chất Lượng Video.
